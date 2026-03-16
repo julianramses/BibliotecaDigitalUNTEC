@@ -147,7 +147,7 @@ mvn clean package
 2. Usuario: `admin` / Contraseña: `admin` (según tu `tomcat-users.xml`)
 3. En la sección **"WAR file to deploy"** → selecciona `biblioteca-digital.war`
 4. Clic en **Deploy**
-5. Accede a: `http://localhost:8080/biblioteca`
+5. Accede a: `http://localhost:8080/biblioteca-digital/`
 
 ---
 
